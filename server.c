@@ -1,11 +1,7 @@
 
 /**
- * Duoduo Lin 21884786
- * Guangming Chen 21664707
- * 
  * Test environment: CSSE MAC
  * compile with make, then ./server 4444
- * 
  **/
 #include <sys/types.h>
 #include <sys/socket.h>
