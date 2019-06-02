@@ -1,8 +1,4 @@
-/* Student name & sutdent ID
- * Xuelin Wang 21820158
- * Wencheng Xiong 21782296
- * our server can run on the MAC and we defined the port and do not need to input the port number, the port number is 4444
- */
+
 
 
 #include <stdio.h>
