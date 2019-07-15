@@ -12,9 +12,8 @@ int main(char *argv[], int argc){
 		
 	}
 
-	else{
-		printf("print nothing");
-	}
+	printf("print nothing");
+	
 	return 0;
 }
 
