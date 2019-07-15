@@ -8,7 +8,12 @@ int main(char *argv[], int argc){
 		return -1;
 	}
 	for(i =0; i<5;i++){
-		printf("helloworld\n");
+		printf("%s\n", argv);
+		
+	}
+
+	else{
+		printf("print nothing");
 	}
 	return 0;
 }
