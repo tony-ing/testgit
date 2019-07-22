@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 //hotfix done
+//hotfix 1.2
 int main(char *argv[], int argc){
 	int i;	
 	if(argc<1){
